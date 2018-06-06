@@ -218,3 +218,6 @@ Further [suggestions](discussion.html) and
   * filterable
   * AJAX
   * jQuery
+
+* ### [StimulusJS](https://stimulusjs.org)
+  Stimulus is a JavaScript framework with modest ambitions. It doesn't seek to take over your entire front-end—in fact, it's not concerned with rendering HTML at all. Instead, it's designed to augment your HTML with just enough behavior to make it shine.
